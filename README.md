@@ -20,5 +20,5 @@ Project | Description
 [Spacy Tutorial](https://github.com/SPThole/DL-Projects/blob/master/Text/spacy_tutorial.ipynb) | Text manipulation with spacy
 [Baby names generation](https://github.com/SPThole/DL-Projects/blob/master/Text/lstm_name_generator.ipynb) | Text generation using LSTM
 [Text classification using BERT](https://github.com/SPThole/DL-Projects/blob/master/Text/text_classification_pytorch_BERT.ipynb) | Sentiment classification for comments on google playstore
-[Image Captioning using Resnet and LSTM](https://github.com/SPThole/DL-Projects/blob/master/Image_Captioning_with_resnet_LSTM_with_attention.ipynb) | Show, attend and tell on flicker 8K dataset
+[Image Captioning using Resnet and LSTM](https://github.com/SPThole/DL-Projects/blob/master/Image%20Captioning/Image_Captioning_with_resnet_LSTM_with_attention.ipynb) | Show, attend and tell on flicker 8K dataset
 
