@@ -6,19 +6,19 @@ This repo contains following projects:
 
 Project | Description 
 --------|-------------
-[Pytorch Tutorial I] (https://github.com/SPThole/DL-Projects/blob/master/Introductory/Autograd_pytrch.ipynb) | Pytorch autograd functionality tutorial
-[Pytorch Tutorial II] (https://github.com/SPThole/DL-Projects/blob/master/Introductory/Playing_around_with_torchTensors.ipynb) | Pytorch tensor manipulation tutorial
-[Pytorch Tutotial III] (https://github.com/SPThole/DL-Projects/blob/master/Introductory/Dataloaders.ipynb) | Pytorch dataset and dataloaders tutorial
-[Pytorch Tutorial IV] ()https://github.com/SPThole/DL-Projects/blob/master/Image/CIFAR10_pytrch.ipynb | Pytorch dataloaders example for CIFAR 10
-[Pytorch model for regression] (https://github.com/SPThole/DL-Projects/blob/master/Tabular/pytorch_reg.ipynb) | Pytorch model for tabular data regression
-[Pytorch model for classification] (https://github.com/SPThole/DL-Projects/blob/master/Tabular/pytorch_reg.ipynb) | Pytorch model for tabular data regression
-[Monkey Species Classifier] (https://github.com/SPThole/DL-Projects/blob/master/Image/pytorch_img_clf.ipynb) | DL based classifer which classifies image among 10 Monkey species
-[Pothole Detection] (https://github.com/SPThole/DL-Projects/blob/master/Image/pytorch_img_clf_pothole_detection.ipynb) | Classifies if the road in the image has hole or not
-[Stock Market Price Prediction] (https://github.com/SPThole/DL-Projects/blob/master/Sequential/share_price_predictions_LSTM.ipynb) | Stock Price prediction based on historical data and LSTM
-[English to Hindi Transliteration] (https://github.com/SPThole/DL-Projects/blob/master/Sequential/Eng_Hindi_transliteration.ipynb) | English to hindi transliteration using LSTM (wihtout attention mechanism)
-[English to Hindi Transliteration with attention] (https://github.com/SPThole/DL-Projects/blob/master/Sequential/Eng_Hindi_transliteration_attention_up.ipynb)| English to hindi transliteration using LSTM and attention mechanism
-[Spacy Tutorial] (https://github.com/SPThole/DL-Projects/blob/master/Text/spacy_tutorial.ipynb) | Text manipulation with spacy
-[Baby names generation] (https://github.com/SPThole/DL-Projects/blob/master/Text/lstm_name_generator.ipynb) | Text generation using LSTM
-[Text classification using BERT] (https://github.com/SPThole/DL-Projects/blob/master/Text/text_classification_pytorch_BERT.ipynb) | Sentiment classification for comments on google playstore
-[Image Captioning using Resnet and LSTM] (https://github.com/SPThole/DL-Projects/blob/master/Image_Captioning_with_resnet_LSTM_with_attention.ipynb) | Show, attend and tell on flicker 8K dataset
+[Pytorch Tutorial I](https://github.com/SPThole/DL-Projects/blob/master/Introductory/Autograd_pytrch.ipynb) | Pytorch autograd functionality tutorial
+[Pytorch Tutorial II](https://github.com/SPThole/DL-Projects/blob/master/Introductory/Playing_around_with_torchTensors.ipynb) | Pytorch tensor manipulation tutorial
+[Pytorch Tutotial III](https://github.com/SPThole/DL-Projects/blob/master/Introductory/Dataloaders.ipynb) | Pytorch dataset and dataloaders tutorial
+[Pytorch Tutorial IV](https://github.com/SPThole/DL-Projects/blob/master/Image/CIFAR10_pytrch.ipynb) | Pytorch dataloaders example for CIFAR 10
+[Pytorch model for regression](https://github.com/SPThole/DL-Projects/blob/master/Tabular/pytorch_reg.ipynb) | Pytorch model for tabular data regression
+[Pytorch model for classification](https://github.com/SPThole/DL-Projects/blob/master/Tabular/pytorch_reg.ipynb) | Pytorch model for tabular data regression
+[Monkey Species Classifier](https://github.com/SPThole/DL-Projects/blob/master/Image/pytorch_img_clf.ipynb) | DL based classifer which classifies image among 10 Monkey species
+[Pothole Detection](https://github.com/SPThole/DL-Projects/blob/master/Image/pytorch_img_clf_pothole_detection.ipynb) | Classifies if the road in the image has hole or not
+[Stock Market Price Prediction](https://github.com/SPThole/DL-Projects/blob/master/Sequential/share_price_predictions_LSTM.ipynb) | Stock Price prediction based on historical data and LSTM
+[English to Hindi Transliteration](https://github.com/SPThole/DL-Projects/blob/master/Sequential/Eng_Hindi_transliteration.ipynb) | English to hindi transliteration using LSTM (wihtout attention mechanism)
+[English to Hindi Transliteration with attention](https://github.com/SPThole/DL-Projects/blob/master/Sequential/Eng_Hindi_transliteration_attention_up.ipynb)| English to hindi transliteration using LSTM and attention mechanism
+[Spacy Tutorial](https://github.com/SPThole/DL-Projects/blob/master/Text/spacy_tutorial.ipynb) | Text manipulation with spacy
+[Baby names generation](https://github.com/SPThole/DL-Projects/blob/master/Text/lstm_name_generator.ipynb) | Text generation using LSTM
+[Text classification using BERT](https://github.com/SPThole/DL-Projects/blob/master/Text/text_classification_pytorch_BERT.ipynb) | Sentiment classification for comments on google playstore
+[Image Captioning using Resnet and LSTM](https://github.com/SPThole/DL-Projects/blob/master/Image_Captioning_with_resnet_LSTM_with_attention.ipynb) | Show, attend and tell on flicker 8K dataset
 
