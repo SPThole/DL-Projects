@@ -24,4 +24,5 @@ Project | Description
 [Baby names generation](https://github.com/SPThole/DL-Projects/blob/master/Text/lstm_name_generator.ipynb) | Text generation using LSTM
 [Text classification using BERT](https://github.com/SPThole/DL-Projects/blob/master/Text/text_classification_pytorch_BERT.ipynb) | Sentiment classification for comments on google playstore
 [Image Captioning using Resnet and LSTM](https://github.com/SPThole/DL-Projects/blob/master/Image%20Captioning/Image_Captioning_with_resnet_LSTM_with_attention.ipynb) | Show, attend and tell on flicker 8K dataset
+[BERT NER](https://github.com/SPThole/DL-Projects/blob/master/NER_BERT/BERT_ner.ipynb) | Named Entity Recognition using finetuned base BERT model
 
